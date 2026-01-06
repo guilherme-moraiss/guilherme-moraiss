@@ -30,11 +30,7 @@ Passionate about cybersecurity, ethical hacking and building secure, scalable so
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-moraiss&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-moraiss&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=guilherme-moraiss&hide_border=true" />
 </p>
 
 ---
