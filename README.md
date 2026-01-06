@@ -30,15 +30,15 @@ Passionate about cybersecurity, ethical hacking and building secure, scalable so
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-moraiss&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=guilherme-moraiss&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-moraiss&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilherme-moraiss&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-moraiss&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-moraiss&theme=github-compact" />
 </p>
 
 ---
